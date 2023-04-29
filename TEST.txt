@@ -1,2 +1,4 @@
-JAVA IS A PROGRAMMING LANGUGAGE
+JAVA IS A Platform independent language
 SELENIUM IS AN AUTOMATION TOOL
+selenium supports multiple platform
+testng is a framework
