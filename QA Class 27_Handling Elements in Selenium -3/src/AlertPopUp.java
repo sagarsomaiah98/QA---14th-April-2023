@@ -14,11 +14,11 @@ public class AlertPopUp {
 		Thread.sleep(2000);
 		
 		Alert al= driver.switchTo().alert();
-		
-		//al.accept();//click on ok
-		al.dismiss();//click on cancel
 		String msg=al.getText();
 		System.out.println(msg);
+		//al.accept();//click on ok
+		al.dismiss();//click on cancel
+		
 		driver.quit();
 
 	}
